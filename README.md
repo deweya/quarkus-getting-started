@@ -1,5 +1,7 @@
 # Getting started with Quarkus
 
+NOTE: This is copied from [quarkusio's quarkus-quickstarts repository](https://github.com/quarkusio/quarkus-quickstarts/tree/master/getting-started).
+
 This is a minimal CRUD service exposing a couple of endpoints over REST.
 
 Under the hood, this demo uses:
